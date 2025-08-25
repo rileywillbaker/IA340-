@@ -1,2 +1,2 @@
-# IA340-
+# IA-340
 data mining class
