@@ -12,3 +12,8 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 
 - mini project
 - final project
+
+## Contact
+
+**Riley**
+**baker2rw@dukes.jmu.edu**
